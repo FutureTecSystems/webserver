@@ -1,4 +1,4 @@
-FROM: php:74-apache
+FROM php:74-apache
 
 LABEL maintainer="martin.angermeier@futuretec-systems.de"
 
